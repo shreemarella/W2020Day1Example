@@ -120,4 +120,4 @@ func display(name:String...)
 {
     print(name)
 }
-dßisplay(name:"hello","hola","hii","bonjour")
+display(name:"hello","hola","hii","bonjour")
